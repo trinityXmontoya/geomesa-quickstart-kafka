@@ -21,11 +21,13 @@ FIXME: listing of options this app accepts.
 
 ## Examples
 
+- [x] Quickstart
+- [ ] Listener
+- [ ] Load Tester
+- [ ] Tests
+
 ...
 
-### Bugs
-
-...
 
 ### Any Other Sections
 ### That You Think
